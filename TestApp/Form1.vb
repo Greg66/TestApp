@@ -1,7 +1,7 @@
 ﻿Imports NetOffice
 Imports Excel = NetOffice.ExcelApi
 Imports NetOffice.ExcelApi.Enums
-
+'Testing Excel Communications
 Public Class Form1
     Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
         Dim xcl As New Excel.Application()
